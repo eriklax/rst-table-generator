@@ -5,3 +5,4 @@ A small reStructuredText (rst) table generator. Supported flags are:
 * -c (csv support)
 * -f (file, it not, stdin is used)
 * -t (trim all fields)
+* -p (pad with string)
